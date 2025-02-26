@@ -30,4 +30,4 @@
 
 ---
 
-![Telegram]
+https://cdn-icons-png.flaticon.com/512/3488/3488463.png
