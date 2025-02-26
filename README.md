@@ -9,10 +9,6 @@
 ---
 
 # 👋 Hey there! I'm LiLMoS  
-💻 Passionate **developer** and **tech enthusiast**!  
-🚀 Skilled in **PHP, Python, HTML, Java**, and modern frameworks.  
-🌱 Currently learning **[Your Favorite Technology]** to improve my skills!  
-
 ---
 
 ## 🔗 **Contact Me**
@@ -30,6 +26,6 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/cb96d570-db67-4540-88a3-ce30f9c0d9cc" width="100" alt="tg-icon">
+<a src="https://t.me/error_apps"><img src="https://github.com/user-attachments/assets/cb96d570-db67-4540-88a3-ce30f9c0d9cc" width="100" alt="tg-icon"></a>
 
 
