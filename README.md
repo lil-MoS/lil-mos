@@ -8,7 +8,6 @@
 
 ---
 
-# 👋 Hey there! I'm LiLMoS  
 ---
 
 ## 🔗 **Contact Me**
