@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm LiLMoS  
 💻 Passionate **developer** and **tech enthusiast**!  
 🚀 Skilled in **PHP, Python, HTML, Java**, and modern frameworks.  
 🌱 Currently learning **[Your Favorite Technology]** to improve my skills!  
@@ -30,4 +30,4 @@
 
 ---
 
-🔥 **Always learning & improving! Let’s collaborate on something amazing!** 😃  
+![Telegram]
