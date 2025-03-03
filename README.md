@@ -3,7 +3,7 @@
 
 ## 🔗 **Contact Me**
 📩 Telegram: [@PvMoSiBoT](https://t.me/PvMoSiBoT)  
-📷 Instagram: [@LiL.M.o.S](https://instagram.com/lil.m.o.s)  
+
 
 ---
 
