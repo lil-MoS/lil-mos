@@ -2,12 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # --- این بخش را اضافه کنید ---
+    permissions:
+      contents: write
+    # ---------------------------
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
