@@ -1,8 +1,11 @@
-<h1 align="center">Hi there, I'm LiLMos </h1>
+<h1 align="center">Hi there, I'm lil-mos 👋</h1>
 <h3 align="center">A Passionate Back-End Developer Specializing in PHP & Python</h3>
 
 <br>
 
+<p align="left">
+  I am a results-driven developer with a strong focus on back-end technologies. My expertise lies in crafting robust, scalable, and maintainable web applications using modern frameworks like **Laravel** and **Django**. I have a keen eye for clean code, architectural patterns, and performance optimization, always striving to deliver high-quality solutions.
+</p>
 
 ---
 
@@ -45,7 +48,8 @@
 ### 🐍 My GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PvMoSiBoT/PvMoSiBoT/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <!-- THIS IS THE CORRECTED LINE FOR YOU -->
+  <img src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </div>
 
 ---
