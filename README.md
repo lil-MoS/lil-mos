@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+
 
 <p align="center">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -40,7 +40,7 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+
 
 <div align="center">
   <!-- THIS IS THE CORRECTED LINE FOR YOU -->
@@ -49,7 +49,7 @@
 
 ---
 
-### 📬 Let's Connect
+
 
 <p align="center">
   Feel free to reach out for collaborations, project inquiries, or just a quick chat. You can also join my Telegram channel for tech insights, tutorials, and tool discussions.
