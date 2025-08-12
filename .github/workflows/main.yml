@@ -8,11 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # --- این بخش را اضافه کنید ---
     permissions:
       contents: write
-    # ---------------------------
 
     steps:
       - name: Checkout
@@ -22,9 +19,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          
+          # --- این بخش برای تغییر گرافیک است ---
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#FF00E4&color_dots=#00F2FF,#00C5FF,#0092FF,#0052FF,#0012FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF00E4&color_dots=#00F2FF,#00C5FF,#0092FF,#0052FF,#0012FF
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
