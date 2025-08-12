@@ -42,8 +42,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lil-mos&show_icons=true&theme=merkonight&hide_border=true&count_private=true" alt="lil-mos's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lil-mos&theme=merkonight&hide_border=true" alt="lil-mos's Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lil-mos&show_icons=true&theme=draculanight&hide_border=true&count_private=true" alt="lil-mos's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lil-mos&theme=draculanight&hide_border=true" alt="lil-mos's Contribution Streak" />
 </p>
 
 ---
