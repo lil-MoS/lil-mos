@@ -1,16 +1,17 @@
-<h1 align="center">سلام 👋، به پروفایل گیت‌هاب من خوش آمدید!</h1>
-<h3 align="center">یک توسعه‌دهنده وب علاقه‌مند به PHP و Python</h3>
+<h1 align="center">Hi there, I'm PvMoSiBoT 👋</h1>
+<h3 align="center">A Passionate Back-End Developer Specializing in PHP & Python</h3>
 
 <br>
 
-<p align="left"> 👨‍💻 من یک برنامه‌نویس وب هستم که عاشق ساختن اپلیکیشن‌های کاربردی و تمیز هستم. تمرکز اصلی من روی بک‌اند با **PHP (لاراول)** و **پایتون (جنگو)** هست، اما از کار با فرانت‌اند هم لذت می‌برم.</p>
+<p align="left">
+  I am a results-driven developer with a strong focus on back-end technologies. My expertise lies in crafting robust, scalable, and maintainable web applications using modern frameworks like **Laravel** and **Django**. I have a keen eye for clean code, architectural patterns, and performance optimization, always striving to deliver high-quality solutions.
+</p>
 
 ---
 
-### 🛠️ ابزارها و تکنولوژی‌های من
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <!-- Backend -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
   </a>
@@ -24,7 +25,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> 
   </a>
   <br>
-  <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
   </a>
@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
   </a>
   <br>
-  <!-- Tools & Environment -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
   </a>
@@ -46,24 +45,24 @@
 
 ---
 
-### 🔗 راه‌های ارتباطی با من
+### 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  برای صحبت یا همکاری، می‌تونید از طریق تلگرام با من در ارتباط باشید:
-  <br><br>
-  <a href="https://t.me/PvMoSiBoT" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-PvMoSiBoT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PvMoSiBoT" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PvMoSiBoT/PvMoSiBoT/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</div>
 
 ---
 
-### 📢 کانال تلگرام من: ERROR_APPS
+### 📬 Let's Connect
 
 <p align="center">
-  در این کانال، مطالب آموزشی، نکات برنامه‌نویسی و معرفی ابزارهای جالب را به اشتراک می‌گذارم.
+  Feel free to reach out for collaborations, project inquiries, or just a quick chat. You can also join my Telegram channel for tech insights, tutorials, and tool discussions.
   <br><br>
+  <a href="https://t.me/PvMoSiBoT" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Me on Telegram" />
+  </a>
+  &nbsp;
   <a href="https://t.me/error_apps" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram Channel">
   </a>
 </p>
