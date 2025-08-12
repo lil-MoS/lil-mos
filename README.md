@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm lil-mos </h1>
-<h3 align="center">A Passionate Back-End Developer Specializing in PHP & Python</h3>
+
 
 
 ---
