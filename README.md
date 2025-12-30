@@ -75,13 +75,7 @@
 
 <!-- اگه گیف نئونی رو هم دوست داری اضافه کنی -->
  
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-neon.gif" 
-    alt="Neon Snake Animation" 
-    width="800"
-  />
-</div>
+
 
 
 ---
