@@ -52,21 +52,15 @@
 
 <div align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/github-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/github-snake.svg" 
-    />
-    <img 
-      alt="GitHub Snake Animation" 
-      src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/github-snake.svg" 
-      width="85%" 
-      style="max-width: 900px;"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" width="85%" />
   </picture>
+  
+  <br><br>
+  
+  <!-- گیف نئونی (اختیاری) -->
+  <img src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-neon.gif" alt="Neon Snake" width="85%" />
 </div>
 
 
