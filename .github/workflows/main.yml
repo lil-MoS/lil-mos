@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # هر 6 ساعت
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -25,7 +25,7 @@ jobs:
             dist/snake-neon.gif?color_snake=#00ff41&color_dots=#ff006e,#8338ec,#3a86ff,#06ffa5
             
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
