@@ -1,30 +1,31 @@
-name: Generate Snake Animation
+name: ✨ Generate Beautiful Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 1 * * *"          # هر روز ساعت ~۱ صبح UTC
+  workflow_dispatch:             # می‌تونی دستی هم اجرا کنی
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate GitHub Snake (SVG + Colorful GIF)
+        uses: Platane/snk@v3
         with:
-          github_user_name: lil-mos
+          github_user_name: ${{ github.repository_owner }}
+          
+          # خروجی‌های مورد نظر (اسم فایل‌ها رو دقیق بنویس)
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
-      - name: Push to output branch
+            dist/snake-vibrant.gif?color_snake=ff2e63&color_dots=ff9f1c,ff6b35,ee5a7a,9b59b6,3498db&color_background=0f0f1a
+
+      - name: 🚀 Push files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
