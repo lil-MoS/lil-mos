@@ -49,18 +49,19 @@
 ---
 
 
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" width="85%" />
+    <!-- حالت دارک -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lil-mos/lil-mos/raw/output/snake-dark.svg" />
+    <!-- حالت لایت -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/lil-mos/lil-mos/raw/output/snake.svg" />
+    <img alt="Contribution Snake - Light/Dark" src="https://github.com/lil-mos/lil-mos/raw/output/snake.svg" width="800" />
   </picture>
-  
-  <br><br>
-  
-  <!-- گیف نئونی (اختیاری) -->
-  <img src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-neon.gif" alt="Neon Snake" width="85%" />
+
+  <br/><br/>
+
+  <!-- گیف رنگارنگ جذاب -->
+  <img src="https://github.com/lil-mos/lil-mos/raw/output/snake-vibrant.gif" alt="Vibrant Neon Snake" width="800" />
 </div>
 
 
