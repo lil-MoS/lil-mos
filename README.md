@@ -51,8 +51,38 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <picture>
+    <!-- حالت دارک مود (خودکار انتخاب میشه) -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-dark.svg" 
+    />
+    
+    <!-- حالت لایت مود -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" 
+    />
+    
+    <!-- تصویر پیش‌فرض (لایت) -->
+    <img 
+      alt="GitHub Contribution Snake" 
+      src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-light.svg" 
+      width="800" 
+    />
+  </picture>
 </div>
+
+<!-- اگه گیف نئونی رو هم دوست داری اضافه کنی -->
+ 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/lil-mos/lil-mos/output/snake-neon.gif" 
+    alt="Neon Snake Animation" 
+    width="800"
+  />
+</div>
+
 
 ---
 
